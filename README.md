@@ -1,9 +1,9 @@
 # Golang Dev Environemts for Docker
 
-[![CD status](https://github.com/lionelee/dev-environments-go/actions/workflows/cd.yml/badge.svg)](https://github.com/lionelee/dev-environments-go/actions/workflows/cd.yml)
+[![CD status](https://github.com/lionelee/dev-environments-go/actions/workflows/cd.yml/badge.svg?branch=1.13)](https://github.com/lionelee/dev-environments-go/actions/workflows/cd.yml)
 
 
-This repo is used to build base image for golang dev environments in Docker Desktop. Each branch corresponds to a specific golang version (especially archived version). Enjoy it 👻
+This repo is used to build base image for golang dev environments in Docker Desktop. This branch corresponds to golang version 1.13.
 
 ### Get Started
 create file `compose-dev.yaml` in your project directory:

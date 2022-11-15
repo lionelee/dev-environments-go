@@ -1,0 +1,1 @@
+The contents of this folder are copyed from [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers/tree/main/script-library).
